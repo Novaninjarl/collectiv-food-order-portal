@@ -1,0 +1,26 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# .NET
+backend/bin/
+backend/obj/
+
+# Database
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
+
+# Environment
+.env
+.env.local
+appsettings.Development.json
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Windows downloaded-file metadata
+*:Zone.Identifier

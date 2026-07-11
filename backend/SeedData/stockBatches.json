@@ -1,0 +1,104 @@
+[
+  {
+    "batchId": "MILK-B1",
+    "productSku": "YR9U90T57MR0",
+    "availableQuantity": 8,
+    "expiryDate": "14/07/2026"
+  },
+  {
+    "batchId": "MILK-B2",
+    "productSku": "YR9U90T57MR0",
+    "availableQuantity": 50,
+    "expiryDate": "30/08/2026"
+  },
+  {
+    "batchId": "EGGS-B1",
+    "productSku": "AB12CD34EF56",
+    "availableQuantity": 5,
+    "expiryDate": "15/07/2026"
+  },
+  {
+    "batchId": "EGGS-B2",
+    "productSku": "AB12CD34EF56",
+    "availableQuantity": 20,
+    "expiryDate": "30/08/2026"
+  },
+  {
+    "batchId": "BREAD-SOUR-B1",
+    "productSku": "GH78JK90LM12",
+    "availableQuantity": 20,
+    "expiryDate": "20/07/2026"
+  },
+  {
+    "batchId": "BREAD-SOUR-B2",
+    "productSku": "GH78JK90LM12",
+    "availableQuantity": 30,
+    "expiryDate": "30/08/2026"
+  },
+  {
+    "batchId": "RICE-B1",
+    "productSku": "UV90WX12YZ34",
+    "availableQuantity": 25,
+    "expiryDate": "31/12/2026"
+  },
+  {
+    "batchId": "HAM-B1",
+    "productSku": "M6L5K4J3H2G1",
+    "availableQuantity": 10,
+    "expiryDate": "30/07/2026"
+  },
+  {
+    "batchId": "TOMATO-B1",
+    "productSku": "U7I8O9P1A2S3",
+    "availableQuantity": 10,
+    "expiryDate": "24/07/2026"
+  },
+  {
+    "batchId": "TOMATO-B2",
+    "productSku": "U7I8O9P1A2S3",
+    "availableQuantity": 20,
+    "expiryDate": "30/08/2026"
+  },
+  {
+    "batchId": "HADDOCK-B1",
+    "productSku": "E7R8T9Y1U2I3",
+    "availableQuantity": 20,
+    "expiryDate": "10/08/2026"
+  },
+  {
+    "batchId": "JUICE-B1",
+    "productSku": "X7C8V9B1N2M3",
+    "availableQuantity": 20,
+    "expiryDate": "30/11/2026"
+  },
+  {
+    "batchId": "WHOLEMEAL-B1",
+    "productSku": "K2L3M4N5O6P7",
+    "availableQuantity": 20,
+    "expiryDate": "20/08/2026"
+  },
+  {
+    "batchId": "BUNS-B1",
+    "productSku": "R8S9T1U2V3W4",
+    "availableQuantity": 20,
+    "expiryDate": "10/03/2026"
+  },
+  {
+    "batchId": "BUNS-B2",
+    "productSku": "R8S9T1U2V3W4",
+    "availableQuantity": 25,
+    "expiryDate": "30/09/2026"
+  },
+  {
+    "batchId": "CREAM-B1",
+    "productSku": "H5I6J7K8L9M1",
+    "availableQuantity": 10,
+    "expiryDate": "20/08/2026"
+  },
+  {
+    "batchId": "WATER-B1",
+    "productSku": "Q1W2E3R4T5Y6",
+    "availableQuantity": 30,
+    "expiryDate": "30/09/2026"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "5.1.2",
+    "vite": "5.4.2",
+    "vue": "3.4.38"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4",
+    "vue-tsc": "2.0.29"
+  }
+}

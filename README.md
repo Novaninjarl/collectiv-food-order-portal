@@ -1,4 +1,4 @@
-# Collectiv Food Customer Order Portal
+# Food Customer Order Portal
 
 A customer-facing order management tool for professional kitchens.
 
